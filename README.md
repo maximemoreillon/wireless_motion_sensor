@@ -1,6 +1,10 @@
 # Wirless motion sensor
 
-An arduino based wireless PIR sensor
+An arduino and NRF24l01 based wireless PIR sensor.
+
+
+## Requirements
+* [Arduino-nrf24l01 library ](https://github.com/aaronds/arduino-nrf24l01)
 
 ## Parts list
 
