@@ -19,4 +19,4 @@ An arduino and NRF24l01 based wireless PIR sensor.
 
 ## Schematic
 
-![alt text](https://moreillon.duckdns.org/projects/images/motion_schema.png)
+Unavailable at the moment
