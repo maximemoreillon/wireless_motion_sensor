@@ -18,5 +18,4 @@ An arduino and NRF24l01 based wireless PIR sensor.
 * 2P JST connector for charge
 
 ## Schematic
-
-Unavailable at the moment
+![Alt text](http://maximemoreillon.com/images/projects/motion_sensor/wireless_motion_sensor_schema.png)
